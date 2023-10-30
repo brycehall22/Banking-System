@@ -1,0 +1,8 @@
+Deposited 4500.00, New balance: 4500.00
+Withdrew 500.00, New balance: 4000.00
+Deposited 250.00, New balance: 4250.00
+Deposited 250.00, New balance: 4500.00
+Deposited 500.00, New balance: 5000.00
+Withdrew 500.00, New balance: 4500.00
+Deposited 250.00, New balance: 5250.00
+Withdrew 2000.00, New balance: 3000.00

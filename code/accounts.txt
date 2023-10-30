@@ -1,0 +1,4 @@
+1 Checking John 3000
+2 Checking Bryce 0
+3 Savings Bryce 1500
+4 Savings John 3000

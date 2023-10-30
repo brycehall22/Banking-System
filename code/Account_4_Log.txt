@@ -1,0 +1,2 @@
+Deposited 1000.00, New balance: 3500.00
+Withdrew 500.00, New balance: 3000.00
